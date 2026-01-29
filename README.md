@@ -38,7 +38,7 @@
 ### 💻 Tech Stack Highlights
 
 <p align="center">
-  <img width="41%" src="https://github-readme-stats.vercel.app/api?username=natancisthoffe&show_icons=true&theme=tokyonight" />
+  <img width="41%" src="https://github-readme-stats.tuhidulhossain.com/api/streak?username=NatanCristhoffe&theme=cyber" />
 </p>
 
 ---
