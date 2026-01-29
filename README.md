@@ -1,16 +1,54 @@
-## Hi there 👋
+<h1 align="center">Hello, I'm Natan Cristhoffe 👋</h1>
 
-<!--
-**NatanCristhoffe/NatanCristhoffe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <em>Backend Developer</em>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://github.com/NatanCristhoffe/NatanCristhoffe/blob/main/commit-animation.gif" width="400px" alt="commit gif looping" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<p align="center">
+  I'm passionate about technology and creativity.  
+  Here you'll find my projects and experiments with AI, Java, and Cloud technologies.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/natan-cristhoffe-425532280/">
+    <img src="https://img.shields.io/badge/-LinkedIn-00AB33?style=flat-square&logo=Linkedin&logoColor=white">
+  </a>
+
+  <a href="mailto:natan.cristhoffe@outlook.com">
+    <img src="https://img.shields.io/badge/-natan.cristhoffe@outlook.com-00AB33?style=flat-square&logo=Gmail&logoColor=white">
+  </a>
+</p>
+
+---
+
+### 🧠 About Me
+
+- 🔭 Backend Developer looking for my first professional opportunity
+- 🎓 Degree in IT Management
+- 🎓 Systems Analysis and Development (In progress)
+
+---
+
+### 💻 Tech Stack Highlights
+
+<p align="center">
+  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatanCristhoffe&layout=compact&hide_border=true&title_color=00ff99&text_color=ffffff&bg_color=0d1117" />
+</p>
+
+---
+
+### 🟩 Latest Commit Energy
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NatanCristhoffe&show_icons=true&theme=github_dark&hide_border=true&title_color=00ff99&icon_color=00ff99&text_color=ffffff" />
+</p>
+
+<p align="center">
+  <em>Keep building. One commit at a time.</em> 🟩
+</p>
